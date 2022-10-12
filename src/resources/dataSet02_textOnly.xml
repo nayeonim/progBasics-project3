@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TriviaQuestions>
+	<questionSet id="0">
+		<q>Which came first?</q>
+		<a id="0">Facebook</a>
+		<a id="1">the iPhone</a>
+		<correct>0</correct>
+	</questionSet>
+	<questionSet id="1">
+		<q>Which came first?</q>
+		<a id="1">Enlightenment</a>
+		<a id="0">the Renaissance</a>
+		<a id="2">the Middle Ages</a>
+		<correct>2</correct>
+	</questionSet>
+	<questionSet id="2">
+		<q>Who came first?</q>
+		<a id="0">William Shakespeare</a>
+		<a id="1">Charles Dickens</a>
+		<correct>0</correct>
+	</questionSet>
+	<questionSet id="3">
+		<q>Which came first?</q>
+		<a id="0">Athens</a>
+		<a id="1">Rome</a>
+		<correct>0</correct>
+	</questionSet>
+	<questionSet id="4">
+		<q>Which art movement came first?</q>
+		<a id="0">Neoclassicism</a>
+		<a id="1">Baroque</a>
+		<a id="2">Romanticism</a>
+		<correct>1</correct>
+	</questionSet>
+	<questionSet id="5">
+		<q>Which joined the Olympics first?</q>
+		<a id="0">Table Tennis</a>
+		<a id="1">Beach Volleyball</a>
+		<a id="2">Badminton</a>
+		<a id="3">Rhythmic Gymnastics</a>
+		<correct>3</correct>
+	</questionSet>
+	<questionSet id="6">
+		<q>Who came first?</q>
+		<a id="0">Julius Caesar</a>
+		<a id="1">Alexander the Great</a>
+		<a id="2">Cleopatra</a>
+		<correct>1</correct>
+	</questionSet>
+	<questionSet id="7">
+		<q>Who came first?</q>
+		<a id="0">Plato</a>
+		<a id="1">Aristotle</a>
+		<a id="2">Socrates</a>
+		<correct>2</correct>
+	</questionSet>
+	<questionSet id="8">
+		<q>Which came first?</q>
+		<a id="1">the Blender</a>
+		<a id="0">the Toaster</a>
+		<correct>0</correct>
+	</questionSet>
+	<questionSet id="9">
+		<q>Which came first?</q>
+		<a id="0">the iPod</a>
+		<a id="1">Justin Bieber</a>
+		<correct>1</correct>
+	</questionSet>
+</TriviaQuestions>

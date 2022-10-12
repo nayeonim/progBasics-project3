@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TriviaQuestions>
+	<questionSet id="0">
+		<q>What geometric shape is generally used for stop signs?</q>
+		<aImg id="1">septagon.jpg</aImg>
+		<a id="2">Octagon</a>
+		<aImg id="2">octagon.jpg</aImg>
+		<qImg>q0.jpg</qImg>
+		<a id="0">Hexagon</a>
+		<aImg id="0">hexagon.jpg</aImg>
+		<a id="1">Septagon</a>
+		<a id="3">Nonagon</a>
+		<aImg id="3">nonagon.jpg</aImg>
+		<correct>2</correct>
+	</questionSet>
+	<questionSet id="1">
+		<q>Where does Gouda cheese originate?</q>
+		<a id="1">Italy</a>
+		<a id="0">France</a>
+		<aImg id="0">france.jpg</aImg>
+		<aImg id="1">italy.jpg</aImg>
+		<qImg>q1.jpg</qImg>
+		<a id="2">Netherlands</a>
+		<aImg id="2">netherlands.jpg</aImg>
+		<correct>2</correct>
+	</questionSet>
+	<questionSet id="2">
+		<q>Which one is an EGOT(Emmy, Grammy, Oscar, Tony) winner?</q>
+		<qImg>q2.jpg</qImg>
+		<a id="1">John Legend</a>
+		<a id="2">Elton John</a>
+		<aImg id="3">winslet.jpg</aImg>
+		<a id="3">Kate Winslet</a>
+		<aImg id="0">monroe.jpg</aImg>
+		<a id="0">Marilyn Monroe</a>
+		<aImg id="1">legend.jpg</aImg>
+		<aImg id="2">eJohn.jpg</aImg>
+		<correct>1</correct>
+	</questionSet>
+	<questionSet id="3">
+		<q>What is Earth's largest continent?</q>
+		<qImg>q3.jpg</qImg>
+		<a id="0">Asia</a>
+		<a id="1">South America</a>
+		<a id="2">North America</a>
+		<a id="3">Africa</a>
+		<aImg id="0">asia.jpg</aImg>
+		<aImg id="1">sAmerica.jpg</aImg>
+		<aImg id="2">nAmerica.jpg</aImg>
+		<aImg id="3">africa.jpg</aImg>
+		<correct>0</correct>
+	</questionSet>
+	<questionSet id="4">
+		<q>Which of Newton’s Laws states that ‘for every action, there is an equal and opposite reaction?</q>
+		<qImg>q4.jpg</qImg>
+		<a id="0">the first</a>
+		<a id="1">the second</a>
+		<a id="2">the third</a>
+		<a id="3">the fourth</a>
+		<aImg id="0">one.jpg</aImg>
+		<aImg id="1">two.jpg</aImg>
+		<aImg id="2">three.jpg</aImg>
+		<aImg id="3">four.jpg</aImg>
+		<correct>2</correct>
+	</questionSet>
+	<questionSet id="5">
+		<q>Which country did AC/DC originate in?</q>
+		<qImg>q5.jpg</qImg>
+		<a id="1">U.K.</a>
+		<a id="2">Canada</a>
+		<a id="0">U.S.</a>
+		<a id="3">Australia</a>
+		<aImg id="0">us.jpg</aImg>
+		<aImg id="1">uk.jpg</aImg>
+		<aImg id="2">canada.jpg</aImg>
+		<aImg id="3">australia.jpg</aImg>
+		<correct>3</correct>
+	</questionSet>
+	<questionSet id="6">
+		<q>How many eyes does a bee have?</q>
+		<qImg>q6.jpg</qImg>
+		<a id="0">3</a>
+		<a id="1">4</a>
+		<a id="2">5</a>
+		<a id="3">6</a>
+		<aImg id="0">three.jpg</aImg>
+		<aImg id="1">four.jpg</aImg>
+		<aImg id="2">five.jpg</aImg>
+		<aImg id="3">six.jpg</aImg>
+		<correct>2</correct>
+	</questionSet>
+	<questionSet id="7">
+		<q>Who is currently the richest person in the world?</q>
+		<qImg>q7.jpg</qImg>
+		<a id="0">Mark Zuckerberg</a>
+		<a id="1">Elon Musk</a>
+		<a id="2">Bill Gates</a>
+		<a id="3">Jeff Bezos</a>
+		<a id="4">Warren Buffet</a>
+		<aImg id="0">zuckerberg.jpg</aImg>
+		<aImg id="1">musk.jpg</aImg>
+		<aImg id="2">gates.jpg</aImg>
+		<aImg id="3">bezos.jpg</aImg>
+		<aImg id="4">buffet.jpg</aImg>
+		<correct>1</correct>
+	</questionSet>
+	<questionSet id="8">
+		<q>Which country consumes the most chocolate per capita?</q>
+		<qImg>q8.jpg</qImg>
+		<a id="0">Switzerland</a>
+		<a id="1">U.S.</a>
+		<a id="2">Belgium</a>
+		<a id="3">Germany</a>
+		<aImg id="0">switzerland.jpg</aImg>
+		<aImg id="1">us.jpg</aImg>
+		<aImg id="2">belgium.jpg</aImg>
+		<aImg id="3">germany.jpg</aImg>
+		<correct>0</correct>
+	</questionSet>
+	<questionSet id="9">
+		<q>What is the rarest MxM color?</q>
+		<qImg>q9.jpg</qImg>
+		<a id="0">Red</a>
+		<a id="1">Blue</a>
+		<a id="2">Green</a>
+		<a id="3">Yellow</a>
+		<a id="4">Brown</a>
+		<aImg id="0">red.jpg</aImg>
+		<aImg id="1">blue.jpg</aImg>
+		<aImg id="2">green.jpg</aImg>
+		<aImg id="3">yellow.jpg</aImg>
+		<aImg id="4">brown.jpg</aImg>
+		<correct>4</correct>
+	</questionSet>
+	<questionSet id="10">
+		<q>What is the most spoken language in the world?</q>
+		<qImg>q10.jpg</qImg>
+		<a id="0">Mandarin</a>
+		<a id="1">Hindi</a>
+		<aImg id="1">hindi.jpg</aImg>
+		<a id="2">English</a>
+		<aImg id="0">mandarin.jpg</aImg>
+		<aImg id="2">english.jpg</aImg>
+		<a id="3">Spanish</a>
+		<aImg id="3">spanish.jpg</aImg>
+		<correct>2</correct>
+	</questionSet>
+	<questionSet id="11">
+		<q>How many hearts does an octopus have?</q>
+		<qImg>q11.jpg</qImg>
+		<a id="0">1</a>
+		<aImg id="0">one.jpg</aImg>
+		<a id="1">2</a>
+		<aImg id="1">two.jpg</aImg>
+		<a id="2">3</a>
+		<aImg id="2">three.jpg</aImg>
+		<a id="3">4</a>
+		<aImg id="3">four.jpg</aImg>
+		<correct>2</correct>
+	</questionSet>
+</TriviaQuestions>
